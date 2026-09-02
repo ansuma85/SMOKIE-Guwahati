@@ -279,12 +279,12 @@ total += item.price;
 
 message += `
 Items Total: ₹${total}
-Delivery Charge: ₹20
-Grand Total: ₹${total + 20}
+Delivery Charge: ₹50
+Grand Total: ₹${total + 50}
 
 Thank you for ordering with  SMOKIE.`;
 
-window.open("https://wa.me/919678601494?text="+encodeURIComponent(message),"_blank");
+window.open("https://wa.me/91 7896007760?text="+encodeURIComponent(message),"_blank");
 
 const date = new Date().toLocaleString();
 
