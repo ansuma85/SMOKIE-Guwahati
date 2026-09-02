@@ -17,7 +17,7 @@ const products = [
     pieces: " Freshly Cooked on Order",
     price: 160,
     image: "bamboo shot.png",
-    available: true,
+    available: false,
     type: "plate"
 
 },
